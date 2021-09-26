@@ -1,0 +1,8 @@
+{
+  "name": "TypeScriptEssential",
+  "version": "1.0.0",
+  "main": "index.js",
+  "repository": "https://github.com/devx3/typescript-essential.git",
+  "author": "Erick <erickfabiani123@gmail.com>",
+  "license": "MIT"
+}
